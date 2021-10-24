@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">lesson3.3.2</string>
+    <string name="nameCountry">name_country</string>
+    <string name="cityName">city_name</string>
+</resources>
